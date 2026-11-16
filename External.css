@@ -1,0 +1,29 @@
+/* p{ 
+   color:aquamarine;
+   background-color: brown; */
+}
+
+.cs3{
+      color:green;
+}
+
+.abes{
+    color:blueviolet;
+}
+
+#ab{
+    color: brown;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    
+}
+
+div{
+    padding: 20px 10px;
+    margin: 10px 20px 30px;
+    border: 1px solid red;
+}
+ 
